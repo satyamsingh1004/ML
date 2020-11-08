@@ -1,0 +1,7 @@
+
+This finds the optimal paramater values to minimus loss
+
+Gradient Descent
+Adagrad
+RMSProp
+Adam
