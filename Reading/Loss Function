@@ -1,0 +1,6 @@
+
+Loss function - represents how good or bad the model is
+
+Square Error loss
+Cross Entropy loss
+KL divergence
